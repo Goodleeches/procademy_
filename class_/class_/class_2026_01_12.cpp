@@ -136,10 +136,13 @@ int main()
 * if a && b && c => jne
 * if a || b || c => je
 * 
+* x / y
+* 
 * 
 */
 
 int main()
 {
 
+	return 0;
 }
